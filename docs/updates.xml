@@ -1,1 +1,5 @@
-
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="oleoeekgaelpbgmjbkbdjjmlkfgoglio">
+    <updatecheck codebase="https://github.com/thanhtuanv416-web/chrome-extension-updates/releases/download/extensions/rpa_extension.crx" version="2.2.0"/>
+  </app>
+</gupdate>
